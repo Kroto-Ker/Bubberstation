@@ -679,7 +679,7 @@ GLOBAL_LIST_INIT(common_loot, list( //common: basic items
 		/obj/item/food/cnds/peanut_butter = 25,
 		/obj/item/food/cnds/random = 100,
 		/obj/item/food/cornchips/random = 100,
-		/obj/item/food/dankpocket = 5,
+		/obj/item/food/donkpocket/dank = 5,
 		/obj/item/food/donkpocket = 25,
 		/obj/item/food/donkpocket/berry = 5,
 		/obj/item/food/donkpocket/honk = 10,
