@@ -71,10 +71,8 @@
 	inhand_icon_state = null
 	possible_transfer_amounts = list()
 	volume = 40
-	apply_type = PATCH
 	apply_method = "apply"
 	self_delay = 3 SECONDS
-	dissolvable = FALSE
 
 /obj/item/reagent_containers/applicator/pill/robotic_patch/attack(mob/living/L, mob/user)
 	if(ishuman(L))
