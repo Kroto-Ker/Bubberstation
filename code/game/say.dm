@@ -314,7 +314,7 @@ GLOBAL_LIST_INIT(freqtospan, list(
 //HACKY VIRTUALSPEAKER STUFF BEYOND THIS POINT
 //these exist mostly to deal with the AIs hrefs and job stuff.
 
-/atom/movable/proc/get_job() //Get a job, you lazy butte
+/atom/movable/proc/GetJob() //Get a job, you lazy butte
 
 /atom/movable/proc/GetSource()
 
