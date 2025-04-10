@@ -15786,7 +15786,6 @@
 "ghF" = (
 /obj/structure/closet{
 	anchored = 1;
-	can_be_unanchored = 1;
 	name = "Patient's Belongings"
 	},
 /obj/machinery/light/cold/directional/west,
@@ -62328,7 +62327,6 @@
 "xqI" = (
 /obj/structure/closet{
 	anchored = 1;
-	can_be_unanchored = 1;
 	name = "Patient's Belongings"
 	},
 /obj/machinery/light/cold/directional/west,
